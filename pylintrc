@@ -1,0 +1,17 @@
+[FORMAT]
+max-line-length=84
+
+[REPORTS]
+output-format=parseable
+include-ids=yes
+reports=no
+
+[MESSAGES CONTROL]
+disable=I0011
+
+[BASIC]
+good-names=i,j,k,e,ex,Run,_,_x,_y,_z
+const-rgx=(([A-Z_][A-Z0-9_]*)|(__.*__)|logger)$
+
+[TYPECHECK]
+generated-members=objects,_meta,id
