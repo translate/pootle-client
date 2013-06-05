@@ -70,5 +70,5 @@ Resources
 License
 -------
 
-The ptl-client code is released under the Lesser General Public License,
+The pootle-client code is released under the Lesser General Public License,
 version 3 or later.  See the ``LICENSE`` file for details.
