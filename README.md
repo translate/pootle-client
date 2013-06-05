@@ -1,19 +1,8 @@
 ptl-client
 ==========
 
-.. ![CI Build Status]
-   (https://travis-ci.org/dupuy/ptl-client.png?branch=master)
-   ![Coverage Status]
-   (https://coveralls.io/repos/dupuy/ptl-client/badge.png?branch=master)
-   <!---
-
-.. image:: https://travis-ci.org/dupuy/ptl-client.png?branch=master
-    :target: https://travis-ci.org/dupuy/ptl-client
-
-.. image:: https://coveralls.io/repos/dupuy/ptl-client/badge.png?branch=master
-    :target: https://coveralls.io/r/dupuy/ptl-client
-
-.. --->
+![CI Build Status](https://travis-ci.org/dupuy/ptl-client.png?branch=master)
+![Coverage Status](https://coveralls.io/repos/dupuy/ptl-client/badge.png?branch=master)
 
 Both the ``ptl`` command line client and the ptl.py Python client library
 for the Pootle web services API are provided in the ptl-client package.
