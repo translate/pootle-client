@@ -1,8 +1,8 @@
-ptl-client
-==========
+Pootle-client
+=============
 
-![CI Build Status](https://travis-ci.org/dupuy/ptl-client.png?branch=master)
-![Coverage Status](https://coveralls.io/repos/dupuy/ptl-client/badge.png?branch=master)
+![CI Build Status](https://travis-ci.org/dupuy/pootle-client.png?branch=master)
+![Coverage Status](https://coveralls.io/repos/translate/pootle-client/badge.png?branch=master)
 
 Both the ``ptl`` command line client and the ptl.py Python client library
 for the Pootle web services API are provided in the ptl-client package.
@@ -11,7 +11,7 @@ translation or localization database from a command line, or script
 operations in your own applications.
 
 The API is currently in development, and the interfaces provided in the
-0.9.* releases are subject to change - the ptl-client software will track
+0.9.* releases are subject to change - the pootle-client software will track
 these changes fairly closely, so the programmatic interface to the client
 library and the command options will change as well.  The slumber library
 is used to provide the basic client functionality; the ``ptl`` module
@@ -57,11 +57,11 @@ Resources
 - Pootle API Specification:
   <http://docs.translatehouse.org/projects/pootle/en/latest/api/>
 - Documentation:
-  <http://docs.translatehouse.org/projects/ptl-client/en/latest/>
+  <http://docs.translatehouse.org/projects/pootle-client/en/latest/>
 - Slumber documentation:
   <https://github.com/dstufft/slumber#readme>
   <https://slumber.readthedocs.org/en/latest/>
-- Translations: <http://pootle.locamotion.org/projects/ptl-client/>
+- Translations: <http://pootle.locamotion.org/projects/pootle-client/>
 - Bug Tracker: <http://bugs.locamotion.org/>
 - Mailing List:
   <https://lists.sourceforge.net/lists/listinfo/translate-pootle>
