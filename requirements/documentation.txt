@@ -1,0 +1,5 @@
+-r optional.txt
+
+Sphinx>=1.1
+pytest>=2.2
+pytest-pep8>=1.0.1

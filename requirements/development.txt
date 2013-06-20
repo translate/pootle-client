@@ -1,10 +1,7 @@
--r optional.txt
+-r documentation.txt
 
-Sphinx>=1.1
 #httpretty>=0.6.2  # 0.6.1 doesn't support early 2.6 releases
 -e git://github.com/dupuy/HTTPretty.git#egg=httpretty
-pytest>=2.2
-pytest-pep8>=1.0.1
 # misaka is a dependency of steadymark that isn't reflected in PyPI package
 misaka==1.0.2
 steadymark>=0.4.4
